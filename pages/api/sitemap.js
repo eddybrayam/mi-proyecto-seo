@@ -1,6 +1,6 @@
 import { routes } from "../../data/routes";
 
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://mi-proyecto-seo-snowy.vercel.app";
 
 export default async function handler(req, res) {
     const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
